@@ -3,7 +3,7 @@
 ### 安装
 
 ```shell
-go get -u github.com/wangyong321/gogorequest
+go get github.com/GoEnthusiast/gogorequest
 ```
 
 ### 同步下载引擎
@@ -13,7 +13,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/wangyong321/gogorequest"
+	"github.com/GoEnthusiast/gogorequest"
 )
 
 func main() {
@@ -30,7 +30,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/wangyong321/gogorequest"
+	"github.com/GoEnthusiast/gogorequest"
 )
 
 func main() {
@@ -56,7 +56,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/wangyong321/gogorequest"
+	"github.com/GoEnthusiast/gogorequest"
 )
 
 func main() {
@@ -88,7 +88,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/wangyong321/gogorequest"
+	"github.com/GoEnthusiast/gogorequest"
 )
 
 func main() {
@@ -119,7 +119,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/wangyong321/gogorequest"
+	"github.com/GoEnthusiast/gogorequest"
 )
 
 func main() {
@@ -155,7 +155,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/wangyong321/gogorequest"
+	"github.com/GoEnthusiast/gogorequest"
 )
 
 func main() {
@@ -172,7 +172,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/wangyong321/gogorequest"
+	"github.com/GoEnthusiast/gogorequest"
 	"net"
 	"net/http"
 	"time"
@@ -212,7 +212,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/wangyong321/gogorequest"
+	"github.com/GoEnthusiast/gogorequest"
 )
 
 func main() {
@@ -237,7 +237,7 @@ func main() {
 package main
 
 import (
-	"github.com/wangyong321/gogorequest"
+	"github.com/GoEnthusiast/gogorequest"
 )
 
 func main() {
