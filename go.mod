@@ -1,4 +1,4 @@
-module github.com/GoEnthusiast/gogorequest/v2
+module github.com/GoEnthusiast/gogorequest
 
 go 1.17
 
