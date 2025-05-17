@@ -13,3 +13,11 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+### IntelliJ IDEA ###
+.idea/**
+### 排除日志文件 ###
+*.log
+### VS Code ###
+.vscode/
+### Mac OS ###
+.DS_Store
